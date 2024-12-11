@@ -64,6 +64,13 @@ function App() {
        disc:"I am in 12 std",
        btn:"Open Profile",
        btnbody:"https://github.com/gaghamohammad"
+    },
+    {   
+      name:"Muhammad",
+      img:"https://avatars.githubusercontent.com/u/185525438?v=4",
+       disc:"I am in 12 std",
+       btn:"Open Profile",
+       btnbody:"https://github.com/gaghamohammad"
     }
   ]
   return (
