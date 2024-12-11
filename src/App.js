@@ -1,7 +1,6 @@
 import './App.css';
 import Profile from './componrts/Profile';
 function App() {
-
   const profiles = [
     {
       name:"Moin",
@@ -23,6 +22,48 @@ function App() {
        disc:"I am a Full stack devoloper",
        btn:"Open Profile",
        btnbody:"https://github.com/Vocabstudents"
+    },
+    {   
+      name:"Saad",
+      img:"https://avatars.githubusercontent.com/u/182938196?v=4",
+       disc:"I am studying in BCA......",
+       btn:"Open Profile",
+       btnbody:"https://github.com/shk-sam"
+    },
+    {   
+      name:"Prience",
+      img:"https://avatars.githubusercontent.com/u/111479652?v=4",
+       disc:"I am studying in BCA...",
+       btn:"Open Profile",
+       btnbody:"https://github.com/pri810"
+    },
+    {   
+      name:"Tehseen",
+      img:"https://avatars.githubusercontent.com/u/182941013?v=4",
+       disc:"I am in 12 std",
+       btn:"Open Profile",
+       btnbody:"https://github.com/jiyashah26"
+    },
+    {   
+      name:"Rumana",
+      img:"https://avatars.githubusercontent.com/u/185526264?v=4",
+       disc:"I am in 12 std",
+       btn:"Open Profile",
+       btnbody:"https://github.com/rumanamotiwala"
+    },
+    {   
+      name:"Bhaseer",
+      img:"https://avatars.githubusercontent.com/u/182937907?v=4",
+       disc:"I am in 12 std",
+       btn:"Open Profile",
+       btnbody:"https://github.com/Basheer107"
+    },
+    {   
+      name:"Muhammad",
+      img:"https://avatars.githubusercontent.com/u/185525438?v=4",
+       disc:"I am in 12 std",
+       btn:"Open Profile",
+       btnbody:"https://github.com/gaghamohammad"
     }
   ]
   return (
